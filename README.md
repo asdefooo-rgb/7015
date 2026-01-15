@@ -14,7 +14,8 @@ We explore the application of **Vision-Language Models (VLMs)** in medical imagi
 - **Performance:** Achieved **9.32%** accuracy on open-ended questions (vs 1.72% baseline) and solved the mode collapse issue.
 
 ## 📊 Results Snapshot
-![Confusion Matrix](path_to_your_image_d57c0a.png)
+![Confusion Matrix](<img width="517" height="482" alt="image" src="https://github.com/user-attachments/assets/c7415d1a-874d-4c0a-b16f-c1083b8fc529" />
+)
 *Figure: BLIP demonstrates superior semantic understanding compared to baseline.*
 
 ## 🛠️ How to Run
